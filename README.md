@@ -8,6 +8,7 @@ base_Wallpaper_Spider是这个爬虫项目的母体，为普通用户量身打�
  1. 爬取wallhaven.cc网站的最新壁纸（Latest）
  2. 爬取wallhaven.cc网站的最热壁纸（Toplist）
  3. 爬取wallhaven.cc网站的随机壁纸（Random）
+
 当爬取数量超过500张时，爬虫会自动启用第三方IP代理，这会稍微减慢爬取速度，图片的默认储存位置为项目目录的Wallpapers目录，图片皆以数字编号。
 
 base_Wallpaper_Spider的稳定版本发布于分支master中，开发版本发布于分支base_Wallpaper_Spider中。
